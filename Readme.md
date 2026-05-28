@@ -1,4 +1,4 @@
-# AutoBid — Agentic Campaign Control Plane
+# AutoBid — Multi-Agentic Campaign Control Plane
 
 ## What It Is
 
